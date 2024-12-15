@@ -1,0 +1,1 @@
+['cavallo','pecora','elefante','gatto','scoiattolo','galina','ragno','mucca','cane','farfalla']
